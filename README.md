@@ -29,5 +29,5 @@ I have a passion for solving problems with computers. Coding is like art, it is 
 
 ![Alieu's github stats](https://github-readme-stats.vercel.app/api?username=alieudev&hide=stars,issues&show_icons=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alieubaldeh1&layout=compact" alt="alieubaldeh1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alieudev&layout=compact" alt="alieudev" /></p>
 
