@@ -1,4 +1,4 @@
-### Hey, I'm Alieu Baldeh! I'm a Software Engineer based in the greater NYC area.
+### Hey, I'm Alieu! I'm a Software Engineer based in the greater NYC area.
 
 I have a passion for solving problems with computers. Coding is like art, it is the medium which I can use to connect with the rest of the world. When I code, I feel like I have superpowers because I can make something out of nothing.
 
@@ -7,10 +7,10 @@ I have a passion for solving problems with computers. Coding is like art, it is 
 <a href='https://www.linkedin.com/in/alieubaldeh/'>
     <img width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href='https://twitter.com/jamtantech'>
+<a href='https://twitter.com/alieudev'>
     <img width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitter.svg">
 </a>
-<a href='https://www.instagram.com/jamtan.code/?hl=en'>
+<a href='https://www.instagram.com/alieu.dev?hl=en'>
     <img width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg">
 </a>
 
@@ -24,10 +24,10 @@ I have a passion for solving problems with computers. Coding is like art, it is 
 
 ### About Me:
 - Open to collaboration on a project. [Get in touch!](https://www.linkedin.com/in/alieubaldeh/)
-- 🌱 I’m currently building Personal project 
+- 🌱 I’m currently building projects at The Flatiron School
 
 
-![Alieu's github stats](https://github-readme-stats.vercel.app/api?username=alieubaldeh1&hide=stars,issues&show_icons=true)
+![Alieu's github stats](https://github-readme-stats.vercel.app/api?username=alieudev&hide=stars,issues&show_icons=true)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alieubaldeh1&layout=compact" alt="alieubaldeh1" /></p>
 
