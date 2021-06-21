@@ -1,6 +1,6 @@
 ### Hey, I'm Alieu! I'm a Software Engineer based in the greater NYC area.
 
-I have a passion for solving problems with computers. Coding is like art, it is the medium which I can use to connect with the rest of the world. When I code, I feel like I have superpowers because I can make something out of nothing.
+I have a passion for solving problems. Coding is like art, it is the medium which I can use to connect with the rest of the world. When I code, I feel like I have superpowers because I can make something out of nothing.
 
 ### Connect with me:
 
