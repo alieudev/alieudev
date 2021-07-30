@@ -11,14 +11,19 @@ I have a passion for solving problems. Coding is like art, it is the medium whic
     <img width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitter.svg">
 </a>
 <a href='https://www.instagram.com/alieu.dev?hl=en'>
-    <img width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg">
+    <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png">
 </a>
 
 ### Languages and Tools:
 <code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/></code>
 <code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'/></code>
-<code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></code>
-<code><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" /></code>
+<code><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /></code>
+<code><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /></code>
+<code><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
+<code><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
+<code><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></code>
+<code><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></code>
+<code><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" /></code>
 <code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'/></code>
 <code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'/></code>
 
