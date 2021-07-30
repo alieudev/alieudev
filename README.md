@@ -5,10 +5,10 @@ I have a passion for solving problems. Coding is like art, it is the medium whic
 ### Connect with me:
 
 <a href='https://www.linkedin.com/in/alieubaldeh/'>
-    <img width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a>
 <a href='https://twitter.com/alieudev'>
-    <img width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/twitter.svg">
+    <img width="30" src="https://image.flaticon.com/icons/png/512/124/124021.png">
 </a>
 <a href='https://www.instagram.com/alieu.dev?hl=en'>
     <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png">
