@@ -27,12 +27,6 @@ I have a passion for solving problems. Coding is like art, it is the medium whic
 <a href='https://twitter.com/alieudev'>
     <img width="30" src="https://image.flaticon.com/icons/png/512/124/124021.png">
 </a>
-<a href='https://alieu-dev.medium.com/'>
-    <img width="30" src="https://miro.medium.com/max/2000/1*jfdwtvU6V6g99q3G7gq7dQ.png">
-</a>
-<a href='https://www.youtube.com/channel/UCyph3tw6kmjCYzAJmuhmDYg'>
-    <img width="30" src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Emblem.png">
-</a>
 
 ### Languages and Tools:
 <code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/></code>
