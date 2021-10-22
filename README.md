@@ -2,6 +2,23 @@
 
 I have a passion for solving problems. Coding is like art, it is the medium which I can use to connect with the rest of the world. When I code, I feel like I have superpowers because I can make something out of nothing.
 
+## 🎨 Projects 🎨
+**Cocoyam** [Demo](https://www.youtube.com/watch?v=iqzPXM9S9-s) | [Frontend Repo](https://github.com/alieudev/african_restaurants/tree/master/client)
+
+🥗: An African Restaurant finder in the NYC area. Helps users discover great hidden gems in NYC. Application built on Rails API and react frontend.
+
+**Jibber** [Demo](https://www.youtube.com/watch?v=L13OM9n5Ngo) | [Frontend Repo](https://github.com/alieudev/jibber/tree/main/client)
+
+🐦 Built a twitter clone to enable users to see tweets, create tweets, update tweets and delete tweets. Application built on Rails API and react frontend.
+
+**Voila Chef** [Demo](https://www.youtube.com/watch?v=hEdE6Q83Okw) | [Frontend Repo](https://github.com/alieudev/Voila-Chef-recipe-app)
+
+🍚 A food recipe app that lets you search for any meal/food type. Built with vanilla Javascript.
+
+**Soccer Team Management** [Demo](https://www.youtube.com/watch?v=6jJVaFBgQE4) | [Repo](https://github.com/alieudev/soccer_frontend)
+
+⚽ A soccer team management app that offers full CRUD functionality. Application built on Sinatra backend and react frontend.
+
 ### Connect with me:
 
 <a href='https://www.linkedin.com/in/alieubaldeh/'>
