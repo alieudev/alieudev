@@ -43,7 +43,8 @@ I have a passion for solving problems. Coding is like art, it is the medium whic
 
 ### About Me:
 - Open to collaboration on a project. [Get in touch!](https://www.linkedin.com/in/alieubaldeh/)
-- 🌱 I’m currently building projects at The Flatiron School
+- 🌱 Associate Software Engineer at InfoSys 
+- 🌱 Solving DS & Algos daily. 
 
 
 ![Alieu's github stats](https://github-readme-stats.vercel.app/api?username=alieudev&hide=stars,issues&show_icons=true)
