@@ -25,7 +25,7 @@ I have a passion for solving problems. Coding is like art, it is the medium whic
     <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a>
 <a href='https://twitter.com/alieudev'>
-    <img width="30" src="https://image.flaticon.com/icons/png/512/124/124021.png">
+    <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png">
 </a>
 
 ### Languages and Tools:
