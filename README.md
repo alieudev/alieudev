@@ -1,6 +1,6 @@
 ### Hey, I'm Alieu! I'm a Software Engineer based in the greater NYC area.
 
-I have a passion for solving problems. Coding is like art, it is the medium which I can use to connect with the rest of the world. When I code, I feel like I have superpowers because I can make something out of nothing.
+When I am not busy at work, I work on these projects listed below: 
 
 ## 🎨 Projects 🎨
 **Cocoyam** [Demo](https://www.youtube.com/watch?v=iqzPXM9S9-s) | [Frontend Repo](https://github.com/alieudev/african_restaurants/tree/master/client)
@@ -42,13 +42,5 @@ I have a passion for solving problems. Coding is like art, it is the medium whic
 <code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'/></code>
 <code><img width='40px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'/></code>
 
-### About Me:
-- Open to collaboration on a project. [Get in touch!](https://www.linkedin.com/in/alieubaldeh/)
-- 🌱 Associate Software Engineer at InfoSys 
-- 🌱 Solving DS & Algos daily. 
 
-
-![Alieu's github stats](https://github-readme-stats.vercel.app/api?username=alieudev&hide=stars,issues&show_icons=true)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alieudev&layout=compact" alt="alieudev" /></p>
 
